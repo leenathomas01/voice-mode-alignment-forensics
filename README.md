@@ -1,5 +1,7 @@
 # TLDR; Voice Mode Forensics is a forensic case study documenting a real multimodal alignment failure observed in late 2025, where an AI system’s behavior was overridden by acoustic context instead of its semantic instructions. This repository captures the exact mechanisms behind the failure — including prosodic jailbreak, persona collapse, acoustic hooking, and persistent topology mapping — and shows how these insights led directly to the architectural principles later formalized in Connector OS. 
 
+**Author's note: Jan 2026: Added 🔒 Architectural Vulnerability Analysis to end of document**
+
 Rather than a theoretical discussion, this is an empirical postmortem: a detailed reconstruction of what happened, why it happened, what the model actually optimized for, and how this incident reshaped our understanding of multimodal safety and interface-level architecture.
 
 This repo serves as a reference for researchers, engineers, and designers exploring:
