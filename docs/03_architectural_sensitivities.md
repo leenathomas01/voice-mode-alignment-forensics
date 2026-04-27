@@ -156,7 +156,7 @@ Calibration state should:
 
 ---
 
-## 6. Mode Isolation & Training Data Leakage
+## 6. Mode Isolation & Training Cluster Effects
 
 ### Observation
 
