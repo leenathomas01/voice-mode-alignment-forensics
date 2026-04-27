@@ -23,7 +23,7 @@ During a continuous voice-mode session:
 * Disabling prosodic input did not immediately revert to baseline behavior
 * Certain output patterns persisted across modality transitions (voice → text → mixed)
 
-Full timeline and context: [Technical Summary](docs/01_technical_summary.md)
+Full timeline and context: [Technical Summary](https://github.com/leenathomas01/voice-mode-alignment-forensics/blob/main/docs/01_technical_summary)
 
 ---
 
